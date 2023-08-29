@@ -3,6 +3,7 @@ const delegateData = [
     {
       "name": "Gabriel Acevero",
       "img": "Placeholder",
+"contact": "URL",
       "party": "D",
       "district": "39",
       "committee": "APP",
@@ -24,6 +25,7 @@ const delegateData = [
     {
       "name": "Christopher Adams",
       "img": "Placeholder",
+"contact": "URL",
       "party": "R",
       "district": "37B",
       "committee": "ECM",
@@ -45,6 +47,7 @@ const delegateData = [
     {
       "name": "Jackie Addison",
       "img": "Placeholder",
+"contact": "URL",
       "party": "D",
       "district": "45",
       "committee": "ENT",
@@ -66,6 +69,7 @@ const delegateData = [
     {
       "name": "Nick Allen",
       "img": "Placeholder",
+"contact": "URL",
       "party": "D",
       "district": "8",
       "committee": "ENT",
@@ -87,6 +91,7 @@ const delegateData = [
     {
         "name": "Tiffany Alston",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "24",
         "committee": "HGO",
@@ -108,6 +113,7 @@ const delegateData = [
       {
         "name": "Marlon Amprey",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "40",
         "committee": "ECM",
@@ -129,6 +135,7 @@ const delegateData = [
       {
         "name": "Carl Anderton",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "38B",
         "committee": "APP",
@@ -150,6 +157,7 @@ const delegateData = [
       {
         "name": "Steve Arentz",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "36",
         "committee": "ECM",
@@ -171,6 +179,7 @@ const delegateData = [
       {
         "name": "Lauren Arikan",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "7B",
         "committee": "JUD",
@@ -192,6 +201,7 @@ const delegateData = [
       {
         "name": "Dalya Attar",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "41",
         "committee": "WAM",
@@ -213,6 +223,7 @@ const delegateData = [
       {
         "name": "Vanessa Atterbeary",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "13",
         "committee": "WAM",
@@ -234,6 +245,7 @@ const delegateData = [
       {
         "name": "Heather Bagnall",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "33C",
         "committee": "HGO",
@@ -255,6 +267,7 @@ const delegateData = [
       {
         "name": "Terry L. Baker",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "1C",
         "committee": "ENT",
@@ -276,6 +289,7 @@ const delegateData = [
       {
         "name": "Ben Barnes",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "21",
         "committee": "APP",
@@ -297,6 +311,7 @@ const delegateData = [
       {
         "name": "Darryl Barnes",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "25",
         "committee": "WAM",
@@ -318,6 +333,7 @@ const delegateData = [
       {
         "name": "J. Sandy Bartlett",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "32",
         "committee": "JUD",
@@ -339,6 +355,7 @@ const delegateData = [
       {
         "name": "Kumar P. Barve",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "17",
         "committee": "ENT",
@@ -360,6 +377,7 @@ const delegateData = [
       {
         "name": "Harry Bhandari",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "8",
         "committee": "HGO",
@@ -381,6 +399,7 @@ const delegateData = [
       {
         "name": "Adrian Boafo",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "23",
         "committee": "ECM",
@@ -402,6 +421,7 @@ const delegateData = [
       {
         "name": "Christopher Eric Bouchat",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "5",
         "committee": "JUD",
@@ -423,6 +443,7 @@ const delegateData = [
       {
         "name": "Regina T. Boyce",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "43A",
         "committee": "ENT",
@@ -444,6 +465,7 @@ const delegateData = [
       {
         "name": "Tony Bridges",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "41",
         "committee": "APP",
@@ -465,6 +487,7 @@ const delegateData = [
       {
         "name": "Jason Buckel",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "1B",
         "committee": "WAM",
@@ -486,6 +509,7 @@ const delegateData = [
       {
         "name": "Jon S. Cardin",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "11B",
         "committee": "JUD",
@@ -507,6 +531,7 @@ const delegateData = [
       {
         "name": "Mark Chang",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "32",
         "committee": "APP",
@@ -528,6 +553,7 @@ const delegateData = [
       {
         "name": "Lorig Charkoudian",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "20",
         "committee": "ECM",
@@ -549,6 +575,7 @@ const delegateData = [
       {
         "name": "Nick Charles",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "25",
         "committee": "WAM",
@@ -570,6 +597,7 @@ const delegateData = [
       {
         "name": "Brian Chisholm",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "31",
         "committee": "HGO",
@@ -591,6 +619,7 @@ const delegateData = [
       {
         "name": "Barrie Ciliberti",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "4",
         "committee": "ENT",
@@ -612,6 +641,7 @@ const delegateData = [
       {
         "name": "Luke Clippinger",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "46",
         "committee": "JUD",
@@ -633,6 +663,7 @@ const delegateData = [
       {
         "name": "Frank M. Conaway, Jr.",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "40",
         "committee": "JUD",
@@ -654,6 +685,7 @@ const delegateData = [
       {
         "name": "Brian Crosby",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "29B",
         "committee": "ECM",
@@ -675,6 +707,7 @@ const delegateData = [
       {
         "name": "Charlotte Crutchfield",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "19",
         "committee": "JUD",
@@ -696,6 +729,7 @@ const delegateData = [
       {
         "name": "Bonnie Cullison",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "19",
         "committee": "HGO",
@@ -717,6 +751,7 @@ const delegateData = [
       {
         "name": "Debra Davis",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "28",
         "committee": "ENT",
@@ -738,6 +773,7 @@ const delegateData = [
       {
         "name": "Eric Ebersole",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "44A",
         "committee": "WAM",
@@ -759,6 +795,7 @@ const delegateData = [
       {
         "name": "Mark Edelson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "46",
         "committee": "APP",
@@ -780,6 +817,7 @@ const delegateData = [
       {
         "name": "Elizabeth Embry",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "43A",
         "committee": "JUD",
@@ -801,6 +839,7 @@ const delegateData = [
       {
         "name": "Kris Fair",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "3",
         "committee": "WAM",
@@ -822,6 +861,7 @@ const delegateData = [
       {
         "name": "Jessica Feldmark",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "12A",
         "committee": "WAM",
@@ -843,6 +883,7 @@ const delegateData = [
       {
         "name": "Diana M. Fennell",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "47A",
         "committee": "ECM",
@@ -864,6 +905,7 @@ const delegateData = [
       {
         "name": "Mark Fisher",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "27C",
         "committee": "ECM",
@@ -885,6 +927,7 @@ const delegateData = [
       {
         "name": "Linda Foley",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "15",
         "committee": "ENT",
@@ -906,6 +949,7 @@ const delegateData = [
       {
         "name": "Catherine M. Forbes",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "42A",
         "committee": "APP",
@@ -927,6 +971,7 @@ const delegateData = [
       {
         "name": "David Fraser-Hidalgo",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "15",
         "committee": "ECM",
@@ -948,6 +993,7 @@ const delegateData = [
       {
         "name": "Jeff Ghrist",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "36",
         "committee": "APP",
@@ -969,6 +1015,7 @@ const delegateData = [
       {
         "name": "Robin Grammar",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "6",
         "committee": "JUD",
@@ -990,6 +1037,7 @@ const delegateData = [
       {
         "name": "Mike Griffith",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "35",
         "committee": "WAM",
@@ -1011,6 +1059,7 @@ const delegateData = [
       {
         "name": "Brooke Grossman",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "2",
         "committee": "WAM",
@@ -1032,6 +1081,7 @@ const delegateData = [
       {
         "name": "Michele Guyton",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "42B",
         "committee": "ENT",
@@ -1053,6 +1103,7 @@ const delegateData = [
       {
         "name": "Pam Lanman Guzzone",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "13",
         "committee": "HGO",
@@ -1074,6 +1125,7 @@ const delegateData = [
       {
         "name": "Kevin Harris",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "27A",
         "committee": "APP",
@@ -1095,6 +1147,7 @@ const delegateData = [
       {
         "name": "Andrea Harrison",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "24",
         "committee": "ECM",
@@ -1116,6 +1169,7 @@ const delegateData = [
       {
         "name": "Wayne Hartman",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "38C",
         "committee": "WAM",
@@ -1137,6 +1191,7 @@ const delegateData = [
       {
         "name": "Anne Healey",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "22",
         "committee": "ENT",
@@ -1158,6 +1213,7 @@ const delegateData = [
       {
         "name": "Shaneka Henson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "30A",
         "committee": "WAM",
@@ -1179,6 +1235,7 @@ const delegateData = [
       {
         "name": "Terri Hill",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "12A",
         "committee": "HGO",
@@ -1200,6 +1257,7 @@ const delegateData = [
       {
         "name": "Jim Hinebaugh, Jr.",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "1A",
         "committee": "APP",
@@ -1221,6 +1279,7 @@ const delegateData = [
       {
         "name": "Marvin E. Holmes, Jr.",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "23B",
         "committee": "ENT",
@@ -1242,6 +1301,7 @@ const delegateData = [
       {
         "name": "Kevin Hornberger",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "35",
         "committee": "WAM",
@@ -1263,6 +1323,8 @@ const delegateData = [
       {
         "name": "Seth Howard",
         "img": "Placeholder",
+"contact": "URL",
+"contact": "URL",
         "party": "R",
         "district": "30B",
         "committee": "ECM",
@@ -1284,6 +1346,8 @@ const delegateData = [
       {
         "name": "Thomas S. Hutchison",
         "img": "Placeholder",
+"contact": "URL",
+"contact": "URL",
         "party": "R",
         "district": "37",
         "committee": "HGO",
@@ -1305,6 +1369,8 @@ const delegateData = [
       {
         "name": "Julian Ivey",
         "img": "Placeholder",
+"contact": "URL",
+"contact": "URL",
         "party": "D",
         "district": "47A",
         "committee": "APP",
@@ -1326,6 +1392,7 @@ const delegateData = [
       {
         "name": "Carl Jackson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "8",
         "committee": "ECM",
@@ -1347,6 +1414,7 @@ const delegateData = [
       {
         "name": "Jay Jacobs",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "36",
         "committee": "ENT",
@@ -1368,6 +1436,7 @@ const delegateData = [
       {
         "name": "Andre V. Johnson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "34A",
         "committee": "ECM",
@@ -1389,6 +1458,7 @@ const delegateData = [
       {
         "name": "Steve Johnson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "34A",
         "committee": "HGO",
@@ -1410,6 +1480,7 @@ const delegateData = [
       {
         "name": "Adrienne A. Jones",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "10",
         "committee": "PRE",
@@ -1431,6 +1502,7 @@ const delegateData = [
       {
         "name": "Dana Jones",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "30A",
         "committee": "APP",
@@ -1452,6 +1524,7 @@ const delegateData = [
       {
         "name": "Anne R. Kaiser",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "14",
         "committee": "HGO",
@@ -1473,6 +1546,7 @@ const delegateData = [
       {
         "name": "Aaron M. Kaufman",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "18",
         "committee": "JUD",
@@ -1494,6 +1568,7 @@ const delegateData = [
       {
         "name": "Ken Kerr",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "3",
         "committee": "HGO",
@@ -1515,6 +1590,7 @@ const delegateData = [
       {
         "name": "Nicholas Kipke",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "31",
         "committee": "HGO",
@@ -1536,6 +1612,7 @@ const delegateData = [
       {
         "name": "Marc Korman",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "16",
         "committee": "APP",
@@ -1557,6 +1634,7 @@ const delegateData = [
       {
         "name": "Mary Lehman",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "21",
         "committee": "ENT",
@@ -1578,6 +1656,7 @@ const delegateData = [
       {
         "name": "Jazz Lewis",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "24",
         "committee": "APP",
@@ -1599,6 +1678,7 @@ const delegateData = [
       {
         "name": "Robbyn Lewis",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "46",
         "committee": "HGO",
@@ -1620,6 +1700,7 @@ const delegateData = [
       {
         "name": "Bob Long",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "6",
         "committee": "WAM",
@@ -1641,6 +1722,7 @@ const delegateData = [
       {
         "name": "Jeffrie Long",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "27B",
         "committee": "ENT",
@@ -1662,6 +1744,7 @@ const delegateData = [
       {
         "name": "Lesley J. Lopez",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "39",
         "committee": "HGO",
@@ -1683,6 +1766,7 @@ const delegateData = [
       {
         "name": "Sara Love",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "16",
         "committee": "ENT",
@@ -1704,6 +1788,7 @@ const delegateData = [
       {
         "name": "Nino Mangione",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "42B",
         "committee": "APP",
@@ -1725,6 +1810,7 @@ const delegateData = [
       {
         "name": "Ashanti Martinez",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "22",
         "committee": "HGO",
@@ -1746,6 +1832,7 @@ const delegateData = [
       {
         "name": "Aletheia McCaskill",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "44B",
         "committee": "APP",
@@ -1767,6 +1854,7 @@ const delegateData = [
       {
         "name": "Susan C. McComas",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "34B",
         "committee": "APP",
@@ -1788,6 +1876,7 @@ const delegateData = [
       {
         "name": "Ric Metzgar",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "6",
         "committee": "APP",
@@ -1809,6 +1898,7 @@ const delegateData = [
       {
         "name": "April Miller",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "4",
         "committee": "WAM",
@@ -1830,6 +1920,7 @@ const delegateData = [
       {
         "name": "Bernice Mireku-North",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "14",
         "committee": "WAM",
@@ -1851,6 +1942,7 @@ const delegateData = [
       {
         "name": "David Moon",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "20",
         "committee": "JUD",
@@ -1872,6 +1964,7 @@ const delegateData = [
       {
         "name": "Matt Morgan",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "29A",
         "committee": "HGO",
@@ -1893,6 +1986,7 @@ const delegateData = [
       {
         "name": "Todd Morgan",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "29C",
         "committee": "ENT",
@@ -1914,6 +2008,7 @@ const delegateData = [
       {
         "name": "Rachel Munoz",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "31",
         "committee": "JUD",
@@ -1935,6 +2030,7 @@ const delegateData = [
       {
         "name": "Ryan Nawrocki",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "7B",
         "committee": "ENT",
@@ -1956,6 +2052,7 @@ const delegateData = [
       {
         "name": "Charles E. Otto, III",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "38A",
         "committee": "ENT",
@@ -1977,6 +2074,7 @@ const delegateData = [
       {
         "name": "Julie Palokovich Carr",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "17",
         "committee": "WAM",
@@ -1998,6 +2096,7 @@ const delegateData = [
       {
         "name": "Cheryl E. Pasteur",
         "img": "Placeholder",
+"contact": "URL",
         "party": "",
         "district": "",
         "committee": "JUD",
@@ -2019,6 +2118,7 @@ const delegateData = [
       {
         "name": "Edith J. Patterson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "28",
         "committee": "WAM",
@@ -2040,6 +2140,7 @@ const delegateData = [
       {
         "name": "Joseline Pena-Melnyk",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "21",
         "committee": "HGO",
@@ -2061,6 +2162,7 @@ const delegateData = [
       {
         "name": "N. Scott Phillips",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "10",
         "committee": "JUD",
@@ -2082,6 +2184,7 @@ const delegateData = [
       {
         "name": "Jesse Pippy",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "4",
         "committee": "ECM",
@@ -2103,6 +2206,7 @@ const delegateData = [
       {
         "name": "Andrew Pruski",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "33A",
         "committee": "ECM",
@@ -2124,6 +2228,7 @@ const delegateData = [
       {
         "name": "Lily Qi",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "15",
         "committee": "ECM",
@@ -2145,6 +2250,7 @@ const delegateData = [
       {
         "name": "Pamela Queen",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "14",
         "committee": "ECM",
@@ -2166,6 +2272,7 @@ const delegateData = [
       {
         "name": "Teresa Reilly",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "35",
         "committee": "HGO",
@@ -2187,6 +2294,7 @@ const delegateData = [
       {
         "name": "Kirill Reznik",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "39",
         "committee": "APP",
@@ -2208,6 +2316,7 @@ const delegateData = [
       {
         "name": "Mike Rogers",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "32",
         "committee": "ECM",
@@ -2229,6 +2338,7 @@ const delegateData = [
       {
         "name": "April Rose",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "5",
         "committee": "ECM",
@@ -2250,6 +2360,7 @@ const delegateData = [
       {
         "name": "Samuel I. \"Sandy\" Rosenberg",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "41",
         "committee": "HGO",
@@ -2271,6 +2382,7 @@ const delegateData = [
       {
         "name": "Sheila Ruth",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "44B",
         "committee": "ENT",
@@ -2292,6 +2404,7 @@ const delegateData = [
       {
         "name": "Sheree Sample-Hughes",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "37A",
         "committee": "ECM",
@@ -2313,6 +2426,7 @@ const delegateData = [
       {
         "name": "Stewart Schmidt, Jr.",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "33B",
         "committee": "JUD",
@@ -2334,6 +2448,7 @@ const delegateData = [
       {
         "name": "Emily Shetty",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "18",
         "committee": "APP",
@@ -2355,6 +2470,7 @@ const delegateData = [
       {
         "name": "Gary Simmons",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "12B",
         "committee": "JUD",
@@ -2376,6 +2492,7 @@ const delegateData = [
       {
         "name": "Karen Simpson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "3",
         "committee": "JUD",
@@ -2397,6 +2514,7 @@ const delegateData = [
       {
         "name": "Stephanie Smith",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "45",
         "committee": "APP",
@@ -2418,6 +2536,7 @@ const delegateData = [
       {
         "name": "Jared Solomon",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "18",
         "committee": "APP",
@@ -2439,6 +2558,7 @@ const delegateData = [
       {
         "name": "Dana Stein",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "11B",
         "committee": "ENT",
@@ -2460,6 +2580,7 @@ const delegateData = [
       {
         "name": "Vaughn Stewart",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "19",
         "committee": "ENT",
@@ -2481,6 +2602,7 @@ const delegateData = [
       {
         "name": "Joshua J. Stonko",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "42C",
         "committee": "APP",
@@ -2502,6 +2624,7 @@ const delegateData = [
       {
         "name": "Kathy Szeliga",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "7A",
         "committee": "HGO",
@@ -2523,6 +2646,7 @@ const delegateData = [
       {
         "name": "Deni Taveras",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "47B",
         "committee": "HGO",
@@ -2544,6 +2668,7 @@ const delegateData = [
       {
         "name": "Kym Taylor",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "23",
         "committee": "JUD",
@@ -2565,6 +2690,7 @@ const delegateData = [
       {
         "name": "Jen Terrasa",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "13",
         "committee": "ENT",
@@ -2586,6 +2712,7 @@ const delegateData = [
       {
         "name": "Karen Toles",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "25",
         "committee": "JUD",
@@ -2607,6 +2734,7 @@ const delegateData = [
       {
         "name": "Chris Tomlinson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "5",
         "committee": "JUD",
@@ -2628,6 +2756,7 @@ const delegateData = [
       {
         "name": "Veronica Turner",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "26",
         "committee": "ECM",
@@ -2649,6 +2778,7 @@ const delegateData = [
       {
         "name": "Kriselda Valderrama",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "26",
         "committee": "ECM",
@@ -2670,6 +2800,7 @@ const delegateData = [
       {
         "name": "William Valentine",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "2A",
         "committee": "JUD",
@@ -2691,6 +2822,7 @@ const delegateData = [
       {
         "name": "Joe Vogel",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "17",
         "committee": "WAM",
@@ -2712,6 +2844,7 @@ const delegateData = [
       {
         "name": "Courtney Watson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "9B",
         "committee": "APP",
@@ -2733,6 +2866,7 @@ const delegateData = [
       {
         "name": "Melissa Wells",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "40",
         "committee": "WAM",
@@ -2754,6 +2888,7 @@ const delegateData = [
       {
         "name": "Jennifer White",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "10",
         "committee": "HGO",
@@ -2775,6 +2910,7 @@ const delegateData = [
       {
         "name": "Jheanelle Wilkins",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "20",
         "committee": "WAM",
@@ -2796,6 +2932,7 @@ const delegateData = [
       {
         "name": "Nicole Williams",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "22",
         "committee": "JUD",
@@ -2817,6 +2954,7 @@ const delegateData = [
       {
         "name": "C.T. Wilson",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "28",
         "committee": "ECM",
@@ -2838,6 +2976,7 @@ const delegateData = [
       {
         "name": "William Wivell",
         "img": "Placeholder",
+"contact": "URL",
         "party": "R",
         "district": "2A",
         "committee": "ECM",
@@ -2859,6 +2998,7 @@ const delegateData = [
       {
         "name": "Sarah Wolek",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "16",
         "committee": "APP",
@@ -2880,6 +3020,7 @@ const delegateData = [
       {
         "name": "Jamila Woods",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "26",
         "committee": "HGO",
@@ -2901,6 +3042,7 @@ const delegateData = [
       {
         "name": "Chao Wu",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "9A",
         "committee": "WAM",
@@ -2922,6 +3064,7 @@ const delegateData = [
       {
         "name": "Caylin Young",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "45",
         "committee": "JUD",
@@ -2943,6 +3086,7 @@ const delegateData = [
       {
         "name": "Natalie Ziegler",
         "img": "Placeholder",
+"contact": "URL",
         "party": "D",
         "district": "9A",
         "committee": "ENT",

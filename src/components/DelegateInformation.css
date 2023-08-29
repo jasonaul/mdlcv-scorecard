@@ -1,0 +1,111 @@
+/* DelegateInformation.css */
+
+.delegate-info {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0077A3;
+  }
+  
+  .delegate-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 150px;
+    height: 200px;
+    border: 3px solid black;
+    margin-right: 20px;
+  }
+  
+  h1 {
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  .party-D {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .party-R {
+    color: red;
+    font-weight: bold;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .score-section {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .score-box {
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid #ccc;
+    width: 100px;
+  }
+  
+  .score-90-above {
+    background-color: green;
+    color: white;
+  }
+  
+  .score-75-89 {
+    background-color: lightgreen;
+    color: black;
+  }
+  
+  .score-50-74 {
+    background-color: grey;
+    color: white;
+  }
+  
+  .score-25-49 {
+    background-color: lightcoral;
+    color: black;
+  }
+  
+  .score-0-24 {
+    background-color: darkred;
+    color: white;
+  }
+  

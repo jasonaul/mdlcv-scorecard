@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import delegateData from '../data/house'; // adjust path as needed
 import './DelegateInformation.css';
 
-const DelegateInformation = ({ district, onGoBack, restartApp }) => {
+const SenateInformation = ({ district, onGoBack, restartApp }) => {
   const delegates = delegateData.filter((d) => d.district === district);
   const [currentDelegateIndex, setCurrentDelegateIndex] = useState(0);
   const currentDelegate = delegates[currentDelegateIndex];
@@ -84,4 +84,4 @@ const DelegateInformation = ({ district, onGoBack, restartApp }) => {
   );
 };
 
-export default DelegateInformation;
+export default SenateInformation;

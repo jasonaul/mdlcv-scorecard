@@ -1,0 +1,21 @@
+/* Header.css */
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    background-color: #f6f6f6; /* light gray, but adjust as needed */
+    border-bottom: 2px solid #dcdcdc;
+  }
+  
+  .header-logo {
+    width: 100px; /* adjust as necessary */
+    height: auto;
+    margin-right: 1em; /* spacing between the logo and text */
+  }
+  
+  .header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  

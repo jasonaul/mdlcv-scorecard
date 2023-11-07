@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import delegateData from '../data/house'; // adjust path as needed
+import delegateData from '../data/senate'; // adjust path as needed
 import './DelegateInformation.css';
 
 const SenateInformation = ({ district, onGoBack, restartApp }) => {
@@ -9,16 +9,20 @@ const SenateInformation = ({ district, onGoBack, restartApp }) => {
 
   // Mapping committee acronyms to full names
   const committeeNames = {
-    "WAM": "Ways and Means Committee",
-    "APP": "Appropriations Committee",
-    "ECM": "Economic Matters Committee",
-    "ENT": "Environment and Transportation Committee",
-    "HGO": "Health and Government Operations Committee",
+    "EEE": "Education, Energy, & the Environment Commitee",
+    "BAT": "Budget & Taxation Committee",
+    "FIN": "Finance Commitee",
+    "JPR": "Judicial Proceedings Committee",
+    "PRE": "Senate President",
     "JUD": "Judiciary Committee"
   };
 
   // Function to determine score class
   const getScoreClass = (score) => {
+    console.log('Score:', score); // Add this line to log the score
+
+    if (!score) return "score-unknown"; // Add a check for undefined or null
+  
     // Remove '%' sign and convert the string to a number
     const numScore = Number(score.replace('%', ''));
   

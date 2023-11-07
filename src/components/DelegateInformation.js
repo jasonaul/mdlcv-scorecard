@@ -47,6 +47,9 @@ const DelegateInformation = ({ district, onGoBack, restartApp }) => {
         <img src={currentDelegate.img} alt={currentDelegate.name} />
         <div>
           <h1>{currentDelegate.name}</h1>
+          {/* Add Contact button next to delegate's name */}
+          <a href={currentDelegate.contact} target="_blank" rel="noopener noreferrer" className="contact-button">Contact your Representative</a>
+          {/* ... rest of the details ... */}
           <p>District: {currentDelegate.district}</p>
           <p>Party: <span className={`party-${currentDelegate.party}`}>{currentDelegate.party}</span></p>
           <p>Committee: {committeeNames[currentDelegate.committee]}</p>

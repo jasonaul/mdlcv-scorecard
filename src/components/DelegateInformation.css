@@ -109,3 +109,26 @@
     color: white;
   }
   
+  .contact-button {
+    display: inline-block;
+    margin-left: 10px; /* Adjust as needed */
+    padding: 8px 15px; /* Adjust as needed */
+    background-color: #007bff; /* Bootstrap primary color for example */
+    color: white;
+    text-decoration: none;
+    border-radius: 20px; /* Rounded borders */
+    font-size: 16px; /* Adjust as needed */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .contact-button:hover, .contact-button:focus {
+    background-color: #0056b3; /* Darker blue on hover/focus */
+    color: white; /* Keep text white on hover/focus */
+    text-decoration: none; /* No underline on hover/focus */
+  }
+  
+  /* Ensure images in buttons do not drag */
+  .delegate-info img {
+    pointer-events: none;
+  }
+  

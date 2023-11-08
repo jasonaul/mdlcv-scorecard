@@ -16,7 +16,7 @@
   border-radius: 10px; /* rounded corners */
   padding: 1rem; /* spacing inside the button */
   background-color: #f8f9fa; /* light background color */
-  margin-bottom: -3rem;
+  margin-bottom: -.5rem;
   cursor: pointer;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;
   text-align: center;
@@ -38,6 +38,10 @@
   font-size: 1.4rem; /* increased font size */
   font-weight: bold;
   color: #333; /* dark grey color for readability */
+}
+
+.oa-page-embed {
+  margin-top: -3rem;
 }
 
 /* Mobile responsiveness */

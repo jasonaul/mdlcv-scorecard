@@ -2,12 +2,13 @@
 
 .selector-container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row; /* Set to row to have items side by side */
   align-items: center;
   gap: 2rem; /* space between items */
   padding: 2rem; /* padding around the container */
   min-height: 70vh; /* minimum height to push content towards the top */
-  justify-content: flex-start; /* aligns content to the top */
+  justify-content: center; /* horizontally center items */
+  flex-wrap: wrap; /* Wrap items to the next line if not enough space */
 }
 
 .image-button {
@@ -18,7 +19,7 @@
   cursor: pointer;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;
   text-align: center;
-  width: 300px; /* increased width */
+  width: 300px; /* fixed width */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,6 +41,10 @@
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
+  .selector-container {
+    flex-direction: column; /* Stack items on small screens */
+  }
+
   .image-button {
     width: 90%; /* more width on small screens */
   }

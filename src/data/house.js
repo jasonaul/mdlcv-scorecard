@@ -17,9 +17,9 @@ const delegateData = [
         "Clean Trucks Act": "+",
         "Clean Transportation and Energy": "+",
         "Maryland the Beautiful": "+",
-        "Forest Conservation Act": "N"
+        "Forest Conservation Act": "E"
       },
-      "2023 Score": "90%",
+      "2023 Score": "100%",
       "Life time Score": "95%"
     },
     {
@@ -193,10 +193,10 @@ const delegateData = [
           "Clean Trucks Act": "-",
           "Clean Transportation and Energy": "-",
           "Maryland the Beautiful": "-",
-          "Forest Conservation Act": "0"
+          "Forest Conservation Act": "-"
         },
         "2023 Score": "0%",
-        "Life time Score": "13%"
+        "Life time Score": "16%"
       },
       {
         "name": "Dalya Attar",
@@ -426,7 +426,7 @@ const delegateData = [
         "district": "5",
         "committee": "JUD",
         "votes": {
-          "Transit Equity": "+",
+          "Transit Equity": "-",
           "Comprehensive Flood Management": "-",
           "Greenspace Equity": "+",
           "Offshore Wind": "-",
@@ -437,8 +437,8 @@ const delegateData = [
           "Maryland the Beautiful": "+",
           "Forest Conservation Act": "+"
         },
-        "2023 Score": "50%",
-        "Life time Score": "50%"
+        "2023 Score": "40%",
+        "Life time Score": "40%"
       }, 
       {
         "name": "Regina T. Boyce",
@@ -624,7 +624,7 @@ const delegateData = [
         "district": "4",
         "committee": "ENT",
         "votes": {
-          "Transit Equity": "N",
+          "Transit Equity": "-",
           "Comprehensive Flood Management": "-",
           "Greenspace Equity": "+",
           "Offshore Wind": "-",
@@ -951,7 +951,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/forbes01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/forbes01",
         "party": "D",
-        "district": "42A",
+        "district": "43B",
         "committee": "APP",
         "votes": {
           "Transit Equity": "+",
@@ -1039,7 +1039,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/griffith02.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith02",
         "party": "R",
-        "district": "35",
+        "district": "35A",
         "committee": "WAM",
         "votes": {
           "Transit Equity": "-",
@@ -1061,7 +1061,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/grossman01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/grossman01",
         "party": "D",
-        "district": "2",
+        "district": "2B",
         "committee": "WAM",
         "votes": {
           "Transit Equity": "+",
@@ -1281,7 +1281,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/holmes.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/holmes",
         "party": "D",
-        "district": "23B",
+        "district": "23",
         "committee": "ENT",
         "votes": {
           "Transit Equity": "+",
@@ -1303,7 +1303,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/hornberger01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/hornberger01",
         "party": "R",
-        "district": "35",
+        "district": "35B",
         "committee": "WAM",
         "votes": {
           "Transit Equity": "-",
@@ -1328,7 +1328,7 @@ const delegateData = [
         "district": "30B",
         "committee": "ECM",
         "votes": {
-          "Transit Equity": "N",
+          "Transit Equity": "-",
           "Comprehensive Flood Management": "N",
           "Greenspace Equity": "+",
           "Offshore Wind": "-",
@@ -1343,11 +1343,11 @@ const delegateData = [
         "Life time Score": "32%"
       },
       {
-        "name": "Thomas S. Hutchison",
+        "name": "Thomas S. Hutchinson",
         "img": "https://mgaleg.maryland.gov/2023RS/images/hutchinson01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/hutchinson01",
         "party": "R",
-        "district": "37",
+        "district": "37B",
         "committee": "HGO",
         "votes": {
           "Transit Equity": "-",
@@ -1403,7 +1403,7 @@ const delegateData = [
           "Clean Trucks Act": "+",
           "Clean Transportation and Energy": "N",
           "Maryland the Beautiful": "N",
-          "Forest Conservation Act": "N"
+          "Forest Conservation Act": "E"
         },
         "2023 Score": "80%",
         "Life time Score": "89%"
@@ -1592,7 +1592,7 @@ const delegateData = [
         "district": "31",
         "committee": "HGO",
         "votes": {
-          "Transit Equity": "E",
+          "Transit Equity": "-",
           "Comprehensive Flood Management": "-",
           "Greenspace Equity": "-",
           "Offshore Wind": "-",
@@ -1603,7 +1603,7 @@ const delegateData = [
           "Maryland the Beautiful": "+",
           "Forest Conservation Act": "+"
         },
-        "2023 Score": "25%",
+        "2023 Score": "22%",
         "Life time Score": "43%"
       },
       {
@@ -1787,7 +1787,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/mangione01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mangione01",
         "party": "R",
-        "district": "42B",
+        "district": "42A",
         "committee": "APP",
         "votes": {
           "Transit Equity": "-",
@@ -2029,7 +2029,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/nawrocki01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/nawrocki01",
         "party": "R",
-        "district": "7B",
+        "district": "7A",
         "committee": "ENT",
         "votes": {
           "Transit Equity": "-",
@@ -2261,7 +2261,7 @@ const delegateData = [
           "Clean Trucks Act": "+",
           "Clean Transportation and Energy": "E",
           "Maryland the Beautiful": "+",
-          "Forest Conservation Act": "N"
+          "Forest Conservation Act": "E"
         },
         "2023 Score": "89%",
         "Life time Score": "94%"
@@ -2271,7 +2271,7 @@ const delegateData = [
         "img": "https://mgaleg.maryland.gov/2023RS/images/reilly01.jpg",
 "contact": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/reilly01",
         "party": "R",
-        "district": "35",
+        "district": "35A",
         "committee": "HGO",
         "votes": {
           "Transit Equity": "-",
@@ -3030,8 +3030,8 @@ const delegateData = [
           "Community Solar": "+",
           "Clean Trucks Act": "+",
           "Clean Transportation and Energy": "N",
-          "Maryland the Beautiful": "90%",
-          "Forest Conservation Act": "90%"
+          "Maryland the Beautiful": "+",
+          "Forest Conservation Act": "E"
         },
         "2023 Score": "90%",
         "Life time Score": "90%"

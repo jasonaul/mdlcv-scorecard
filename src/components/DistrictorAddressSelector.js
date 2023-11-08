@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Select from 'react-select';
+import './Selector.css';
 
 const DistrictOrAddressSelector = ({ onSelectDistrict }) => {
   // District options for the dropdown
@@ -89,15 +90,21 @@ const DistrictOrAddressSelector = ({ onSelectDistrict }) => {
   };
 
   return (
-    <div style={{ padding: '1em', border: '1px solid #ccc', borderRadius: '8px' }}>
-      <h1>Select Your District</h1>
-      <Select
-        options={districtOptions}
-        onChange={handleSelect}
-        placeholder="Select your district..."
-        isSearchable
-        isClearable
-      />
+    <div className="da-selector-container">
+      <div className="da-select-wrapper">
+        <h1 className="da-select-heading">Select Your District</h1>
+        <Select
+          className="da-district-select"
+          options={districtOptions}
+          onChange={handleSelect}
+          placeholder="Select your district..."
+          isSearchable
+          isClearable
+        />
+      </div>
+      <a href="https://www.mdlcv.org/find-your-elected-officials" target="_blank" rel="noopener noreferrer" className="da-find-district-btn">
+        Find Your District and Elected Official
+      </a>
     </div>
   );
 };

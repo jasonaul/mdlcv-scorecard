@@ -1,37 +1,62 @@
 /* InitialSelector.css */
 
 .selector-container {
-    /* ... existing styles ... */
-    position: relative;
-    top: 33%; /* moving it to top third */
-    left: 5%; /* little offset from the left */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem; /* space between items */
+  padding: 2rem; /* padding around the container */
+  min-height: 70vh; /* minimum height to push content towards the top */
+  justify-content: flex-start; /* aligns content to the top */
+}
+
+.image-button {
+  border: 2px solid #007bff; /* solid border for emphasis */
+  border-radius: 10px; /* rounded corners */
+  padding: 1rem; /* spacing inside the button */
+  background-color: #f8f9fa; /* light background color */
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;
+  text-align: center;
+  width: 300px; /* increased width */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-button img {
+  width: 80%; /* width relative to the button size */
+  margin-bottom: 1rem; /* space between image and text */
+  height: auto;
+  border-radius: 8px; /* slightly rounded corners for the image */
+}
+
+.image-button-text {
+  font-size: 1.4rem; /* increased font size */
+  font-weight: bold;
+  color: #333; /* dark grey color for readability */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .image-button {
+    width: 90%; /* more width on small screens */
   }
-  
+
   .image-button img {
-    width: 200px;  /* fixed width */
-    height: 200px; /* fixed height */
-    object-fit: cover; /* crops the image to fit the container */
-    /* ... other existing styles ... */
+    width: 100%; /* full width of the button */
   }
-  
-  .image-button-text {
-    margin-top: 1rem;
-    font-size: 1.1rem;
-    color: black; /* make the text always visible */
-  }
-  
-    /* Mobile responsiveness */
-    @media (max-width: 480px) {
-      max-width: 150px;
-    }
-  
-  
-  .image-button:hover img {
-    transform: scale(1.05); /* Slightly enlarging the image on hover */
-  }
-  
-  .image-button-text {
-    margin-top: 1rem;
-    font-size: 1.1rem;
-  }
-  
+}
+
+.image-button:hover, .image-button:focus {
+  transform: translateY(-5px); /* lift effect on hover/focus */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* more pronounced shadow on hover/focus */
+  border-color: #0056b3; /* darker border color on hover/focus */
+}
+
+/* Ensure accessibility for focusable elements */
+.image-button:focus {
+  outline: none; /* removing default outline */
+  box-shadow: 0 0 0 3px rgba(38, 143, 255, 0.5); /* custom focus style */
+}

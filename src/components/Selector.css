@@ -1,0 +1,46 @@
+.da-selector-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .da-select-wrapper {
+    margin-bottom: 1em;
+  }
+  
+  .da-select-heading {
+    margin-bottom: 0.5em;
+  }
+  
+  .da-district-select .select__control {
+    border-radius: 4px; /* Make sure this style applies to the react-select component */
+  }
+  
+  .da-find-district-btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    align-self: flex-end;
+  }
+  
+  @media (max-width: 768px) {
+    .da-selector-container {
+      flex-direction: column;
+    }
+  
+    .da-find-district-btn {
+      align-self: auto;
+      width: 100%;
+      margin-top: 10px;
+    }
+  }
+  

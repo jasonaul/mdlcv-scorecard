@@ -519,13 +519,13 @@ const delegateData = [
           "Greenspace Equity": "-",
           "Offshore Wind": "-",
           "LMI Energy Efficiency": "+",
-          "Community Solar": "+",
+          "Community Solar": "-",
           "Clean Trucks Act": "-",
           "Clean Transportation and Energy": "E",
           "Maryland the Beautiful": "+",
           "Forest Conservation Act": "+"
         },
-        "2023 Score": "56%",
+        "2023 Score": "44%",
         "Life time Score": "30%"
       },
       {

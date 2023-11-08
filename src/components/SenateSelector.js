@@ -57,11 +57,11 @@ const SenateSelector = ({ onSelectDistrict }) => {
 
 
   // State to hold the selected district
-  const [selectedDistrict, setSelectedDistrict] = useState(null);
+  // const [selectedDistrict, setSelectedDistrict] = useState(null);
 
   // Handler for when a district is selected
   const handleSelect = (selectedOption) => {
-    setSelectedDistrict(selectedOption);
+    // setSelectedDistrict(selectedOption);
     onSelectDistrict(selectedOption.value);
   };
 

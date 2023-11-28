@@ -900,7 +900,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "98%"
+        "Life time Score": "98%"
       },
       {
         "name": "Jeff Waldstreicher",
@@ -922,7 +922,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "97%"
+        "Life time Score": "97%"
       },
       {
         "name": "Alonzo T. Washington",
@@ -944,7 +944,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "100%"
+        "Life time Score": "100%"
       },
       {
         "name": "Mary Washington",
@@ -966,7 +966,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "97%"
+        "Life time Score": "97%"
       },
       {
         "name": "Ron Watson",
@@ -988,7 +988,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "97%"
+        "Life time Score": "97%"
       },
       {
         "name": "Christopher West",
@@ -1010,7 +1010,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "50%",
-        "Lifetime Score": "79%"
+        "Life time Score": "79%"
       },
       {
         "name": "Craig J. Zucker",
@@ -1032,7 +1032,7 @@ const delegateData = [
           "Forest Conservation Act": "+"
         },
         "2023 Score": "100%",
-        "Lifetime Score": "97%"
+        "Life time Score": "97%"
       }
   ]
   

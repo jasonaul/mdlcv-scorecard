@@ -24,6 +24,25 @@ const App = () => {
   return (
     <div>
       <Header />
+      <div style={{ textAlign: 'center', margin: '1em' }}>
+        <a 
+          href="https://www.mdlcv.org/wp-content/uploads/2023/11/2023-Environmental-Scorecard-nov2023.pdf" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style={{
+            position: 'relative',
+            display: 'inline-block',
+            backgroundColor: '#007bff',
+            color: 'white',
+            padding: '10px 20px',
+            borderRadius: '5px',
+            textDecoration: 'none',
+            fontWeight: 'bold'
+          }}
+        >
+          View the full Scorecard (PDF)
+        </a>
+      </div>
       <div style={{ position: 'relative', margin: '1em' }}>
         <button onClick={handleRestart}>Scorecard Home</button>
         <button 

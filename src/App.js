@@ -5,10 +5,12 @@ import InitialSelector from './components/InitialSelector.js';
 import SenateSelector from './components/SenateSelector.js';
 import SenateInformation from './components/SenateInformation.js';
 import Header from './components/Header.js';
+import Modal from './components/Modal.js';
 
 const App = () => {
-  const [selectedChamber, setSelectedChamber] = useState(null); // either 'house' or 'senate'
+  const [selectedChamber, setSelectedChamber] = useState(null);
   const [selectedDistrict, setSelectedDistrict] = useState(null);
+  const [showInstructionsModal, setShowInstructionsModal] = useState(false); // State for modal visibility
 
   const handleRestart = () => {
     setSelectedChamber(null);
@@ -21,10 +23,23 @@ const App = () => {
 
   return (
     <div>
-      <Header /> {/* Always visible header */}
-      <div style={{ margin: '1em' }}>
-    <div style={{ margin: '1em' }}>
-      <button onClick={handleRestart}>Scorecard Home</button>
+      <Header />
+      <div style={{ position: 'relative', margin: '1em' }}>
+        <button onClick={handleRestart}>Scorecard Home</button>
+        <button 
+          style={{ position: 'absolute', top: 0, right: 0 }} 
+          onClick={() => setShowInstructionsModal(true)}
+        >
+          How to Use this Scorecard
+        </button>
+
+        {showInstructionsModal && (
+          <Modal onClose={() => setShowInstructionsModal(false)}>
+            {/* Modal content here */}
+            <p>To view your representative's score, please click on either "Maryland House of Delegates" or "Maryland Senate" to find your district and representative. If you do not know your district or representative, you can use the "Who represents you in Annapolis?" tool on this page.</p>
+          </Modal>
+        )}
+
 
       {!selectedChamber ? (
         <InitialSelector onChoose={handleChamberChoice} />
@@ -47,7 +62,7 @@ const App = () => {
       )}
     </div>
     </div>
-    </div>
+
   );
 };
 
